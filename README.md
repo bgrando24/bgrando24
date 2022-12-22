@@ -1,31 +1,24 @@
-- 👋 Hi, I’m Brandon Grando
-
-- 👀 I’m interested in Full-Stack Web Development
-
-- 🌱 I have learnt/am currently learning:
+# Brandon Grando - Full-Stack Web Developer
   
-  Front-End:
-    - HTML5
-    - CSS3
-    - JavaScript (ES6)
-    - React & React Router
-    - Tailwind
-
-  Back-End:
-    - Node.js 
-    - Express.js
-    - PostGreSQL
-   
-  Other technologies:
-    - AWS
-    - Git/GitHub
-    - WordPress
+  
+## Languages and technology I use
+- HTML5
+- CSS3
+- Tailwind
+- JavaScript
+- TypeScript
+- React.js
+- Node.js
+- Express.js
+- PostgreSQL
+- AWS
+- Git/Github
 
 
-- 📫 How to reach me:
-  - LinkedIn: https://www.linkedin.com/in/brandon-grando-388437192/
-  - Email: brandongrando@gmail.com
-  - Checkout my portfolio website -> https://bgrando24.github.io/portfolio-2022/
+## How to reach me
+- LinkedIn: https://www.linkedin.com/in/brandon-grando-388437192/
+- Email: brandongrando@gmail.com
+- Checkout my portfolio website -> https://bgrando24.github.io/portfolio-2022/
 
 <!---
 bgrando24/bgrando24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
