@@ -7,8 +7,10 @@
 - Tailwind
 - JavaScript
 - TypeScript
+- PHP
 - React.js
 - Node.js
+- Laravel
 - Express.js
 - PostgreSQL
 - AWS
