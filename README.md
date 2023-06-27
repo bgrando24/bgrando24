@@ -1,7 +1,7 @@
 # Brandon Grando - Full-Stack Web Developer
   
   
-## Languages and technology I use
+## Languages and technology:
 - HTML5
 - CSS3
 - Tailwind
@@ -9,12 +9,13 @@
 - TypeScript
 - PHP
 - React.js
-- Node.js
-- Laravel
-- Express.js
+- Vue.js
+- Next.js
+- Nuxt.js
 - PostgreSQL
+- MySQL
 - AWS
-- Git/Github
+- Git
 
 
 ## How to reach me
