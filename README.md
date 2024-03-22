@@ -1,7 +1,7 @@
 # Brandon Grando - Full-Stack Web Developer
   
   
-## Knowledgeable in the following languages and technologies:
+### Knowledgeable in the following languages and technologies:
 - Typescript
 - Nuxt & Vue.js
 - Next & React.js
