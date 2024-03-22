@@ -2,13 +2,16 @@
   
   
 ### Knowledgeable in the following languages and technologies:
-- Typescript
+- JavaScript/TypeScript
 - Nuxt & Vue.js
 - Next & React.js
 - Tailwind
 - PHP & Laravel
 - C# & .NET
+- Swift & iOS development
+- Java/Kotlin & Android development
 - SQL (Postgres, MySQL, Oracle)
+- C++
 - AWS
 - Cloudflare
 - Git (GitLab & GitHub)
