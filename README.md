@@ -1,27 +1,22 @@
 # Brandon Grando - Full-Stack Web Developer
   
   
-## Languages and technology:
-- HTML5
-- CSS3
+## Knowledgeable in the following languages and technologies:
+- Typescript
+- Nuxt & Vue.js
+- Next & React.js
 - Tailwind
-- JavaScript
-- TypeScript
-- PHP
-- React.js
-- Vue.js
-- Next.js
-- Nuxt.js
-- PostgreSQL
-- MySQL
+- PHP & Laravel
+- C# & .NET
+- SQL (Postgres, MySQL, Oracle)
 - AWS
-- Git
+- Cloudflare
+- Git (GitLab & GitHub)
 
 
 ## How to reach me
 - LinkedIn: https://www.linkedin.com/in/brandon-grando-388437192/
 - Email: brandongrando@gmail.com
-- Checkout my portfolio website -> https://bgrando24.github.io/portfolio-2022/
 
 <!---
 bgrando24/bgrando24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
