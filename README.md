@@ -8,6 +8,7 @@
 - Tailwind
 - PHP & Laravel
 - C# & .NET
+- Java & Spring Boot
 - Swift & iOS development
 - Java/Kotlin & Android development
 - SQL (Postgres, MySQL, Oracle)
